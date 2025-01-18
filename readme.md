@@ -133,4 +133,4 @@ You can also follow my GitHub profile to stay updated on my latest projects:
 
 ## 📝 License
 
-Copyright © 2022 [Muhib Arshad](https://github.com/mujeebarshad007).
+Copyright © 2022 [MUJEEB ARSHAD](https://github.com/mujeebarshad007).
