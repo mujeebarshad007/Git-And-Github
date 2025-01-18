@@ -5,8 +5,10 @@
 <h1 align="center" style="font-size: 80px;" >Master Git and Github Integration in just 2 minutes <h1>
 
 ### Written by : [MUHIB ARSHAD](https://medium.com/@muhibarshad)
+### Provided by : [MUJEEB ARSHAD](https://medium.com/@mujeebarshad007)
 
-> "This repository contains a collection of bash scripts and complete documentation for automating various tasks in Linux. The scripts cover a range of topics including file manipulation, system administration, and more. It also includes guidance on the shell language used in the scripts to make it easy for users to understand and modify the scripts to suit their needs."
+> "This Repository is intended for those who have already installed Git and GitHub but have not yet started working, or are experiencing problems.
+> Please note that the process of downloading, installing, and creating an account on GitHub will not be covered."
 
 # Shell Tutorials
 
